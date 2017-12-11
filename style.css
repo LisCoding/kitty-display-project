@@ -2,37 +2,21 @@
   padding: 0px;
   margin: 0px;
 }
-.wrapper {
-  background-color: #d6d1b1;
-  padding-top: 35px;
-  height: 870px;
-}
-.header img, .header h1 {
-  display: inline-block;
-  vertical-align: bottom;
+.container-fluid{
+  background-color: lightgray;
+  text-align: center;
 }
 
-.header img {
-  width: 180px;
-  height: 70px;
-  margin-bottom: 20px;
-}
-.header h1 {
-  font-size: 40px;
-  padding-bottom: 10px;
-}
 .header {
-  padding: 10px 0 0 146px;
-  box-sizing: border-box;
+  font-size: 50px;
+  padding-bottom: 10px;
+  color: #fd6370;
 }
+
 #ninja-img {
   background-color: white;
 }
-.main-content {
-  padding-left: 24px;
-  height: 800px;
-  width: 952px;
-}
+
 .block-row1 div,
 .block-row2 div,
 .block-row3 div,
