@@ -8,9 +8,14 @@
 }
 
 .header {
-  font-size: 50px;
-  padding-bottom: 10px;
-  color: #fd6370;
+  font-family: "Dancing Script";
+  font-size: 45px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  line-height: 26.4px;
+  color: #FD6376;
+  margin-bottom: 20px;
 }
 
 #ninja-img {
